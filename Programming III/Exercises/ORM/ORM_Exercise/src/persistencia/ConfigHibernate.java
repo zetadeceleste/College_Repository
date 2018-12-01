@@ -21,7 +21,7 @@ public class ConfigHibernate {
             config.setProperty("hibernate.connection.url", "jdbc:mysql://localhost:3306/tp_orm");
             config.setProperty("hibernate.connection.driver_class", "com.mysql.jdbc.Driver");
             config.setProperty("hibernate.connection.username", "root");
-            config.setProperty("hibernate.connection.password", "Obladi89");
+            config.setProperty("hibernate.connection.password", "");
             config.setProperty("hibernate.dialect", "org.hibernate.dialect.MySQLDialect");
             config.setProperty("hibernate.show_sql", "true");
             config.setProperty("hibernate.hbm2ddl.auto", "update" );
