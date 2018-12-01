@@ -1,6 +1,6 @@
 # College Repository
 
-Tests & Exercises done at College (UTN Mendoza, Argentina).
+Exams & Exercises done at College (UTN Mendoza, Argentina).
 
 Concepts worked:
 . Object-Oriented Programming
