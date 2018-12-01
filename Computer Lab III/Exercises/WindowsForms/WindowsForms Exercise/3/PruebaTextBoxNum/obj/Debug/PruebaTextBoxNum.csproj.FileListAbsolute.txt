@@ -1,0 +1,11 @@
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\PruebaTextBoxNum\bin\Debug\PruebaTextBoxNum.exe.config
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\PruebaTextBoxNum\bin\Debug\PruebaTextBoxNum.exe
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\PruebaTextBoxNum\bin\Debug\PruebaTextBoxNum.pdb
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\PruebaTextBoxNum\obj\Debug\PruebaTextBoxNum.Properties.Resources.resources
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\PruebaTextBoxNum\obj\Debug\PruebaTextBoxNum.csproj.GenerateResource.Cache
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\PruebaTextBoxNum\obj\Debug\PruebaTextBoxNum.exe
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\PruebaTextBoxNum\obj\Debug\PruebaTextBoxNum.pdb
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\PruebaTextBoxNum\obj\Debug\PruebaTextBoxNum.csprojResolveAssemblyReference.cache
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\PruebaTextBoxNum\obj\Debug\PruebaTextBoxNum.Form1.resources
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPWindowsFormEj3\PruebaTextBoxNum\bin\Debug\TPWindowsFormEj3.dll
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPWindowsFormEj3\PruebaTextBoxNum\bin\Debug\TPWindowsFormEj3.pdb

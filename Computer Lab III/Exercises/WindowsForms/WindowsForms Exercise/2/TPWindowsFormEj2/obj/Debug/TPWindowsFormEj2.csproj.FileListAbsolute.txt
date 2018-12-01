@@ -1,0 +1,9 @@
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPWindowsFormEj2\TPWindowsFormEj2\bin\Debug\TPWindowsFormEj2.exe.config
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPWindowsFormEj2\TPWindowsFormEj2\bin\Debug\TPWindowsFormEj2.exe
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPWindowsFormEj2\TPWindowsFormEj2\bin\Debug\TPWindowsFormEj2.pdb
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPWindowsFormEj2\TPWindowsFormEj2\obj\Debug\TPWindowsFormEj2.csprojResolveAssemblyReference.cache
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPWindowsFormEj2\TPWindowsFormEj2\obj\Debug\TPWindowsFormEj2.Form1.resources
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPWindowsFormEj2\TPWindowsFormEj2\obj\Debug\TPWindowsFormEj2.Properties.Resources.resources
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPWindowsFormEj2\TPWindowsFormEj2\obj\Debug\TPWindowsFormEj2.csproj.GenerateResource.Cache
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPWindowsFormEj2\TPWindowsFormEj2\obj\Debug\TPWindowsFormEj2.exe
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPWindowsFormEj2\TPWindowsFormEj2\obj\Debug\TPWindowsFormEj2.pdb

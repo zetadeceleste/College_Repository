@@ -1,0 +1,4 @@
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\TPWindowsFormEj3\bin\Debug\TPWindowsFormEj3.dll
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\TPWindowsFormEj3\bin\Debug\TPWindowsFormEj3.pdb
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\TPWindowsFormEj3\obj\Debug\TPWindowsFormEj3.dll
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj3\TPWindowsFormEj3\obj\Debug\TPWindowsFormEj3.pdb

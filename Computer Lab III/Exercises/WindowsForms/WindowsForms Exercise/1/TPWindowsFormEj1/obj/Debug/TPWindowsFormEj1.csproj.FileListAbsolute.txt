@@ -1,0 +1,9 @@
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj1\TPWindowsFormEj1\obj\Debug\TPWindowsFormEj1.csprojResolveAssemblyReference.cache
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj1\TPWindowsFormEj1\obj\Debug\TPWindowsFormEj1.Form1.resources
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj1\TPWindowsFormEj1\obj\Debug\TPWindowsFormEj1.Properties.Resources.resources
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj1\TPWindowsFormEj1\obj\Debug\TPWindowsFormEj1.csproj.GenerateResource.Cache
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj1\TPWindowsFormEj1\bin\Debug\TPWindowsFormEj1.exe.config
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj1\TPWindowsFormEj1\bin\Debug\TPWindowsFormEj1.exe
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj1\TPWindowsFormEj1\bin\Debug\TPWindowsFormEj1.pdb
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj1\TPWindowsFormEj1\obj\Debug\TPWindowsFormEj1.exe
+c:\users\electro\documents\visual studio 2017\Projects\TPWindowsFormEj1\TPWindowsFormEj1\obj\Debug\TPWindowsFormEj1.pdb
