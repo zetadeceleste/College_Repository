@@ -1,0 +1,7 @@
+C:\Users\Celes\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\HerenciaYPolimorfismo.exe.config
+C:\Users\Celes\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\HerenciaYPolimorfismo.exe
+C:\Users\Celes\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\HerenciaYPolimorfismo.pdb
+C:\Users\Celes\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\HerenciaYPolimorfismo.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\HerenciaYPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\HerenciaYPolimorfismo.exe
+C:\Users\Celes\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\HerenciaYPolimorfismo.pdb

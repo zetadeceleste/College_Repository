@@ -1,0 +1,39 @@
+METODOS Y PARAMETROS
+
+EJERCICIO 3:
+Si la llamada a un método fuera de la siguiente forma
+
+public static void Main( )
+{
+
+CallMyMethod(6, 2, true);
+}
+
+Escriba la estructura del método que procese dicha llamada mostrando
+por consola en caso de que el tercer parámetro booleano sea true la
+multiplicación del primero y segundo parámetro y en caso de ser false mostrar
+el resultado de la división de los 2 primeros parametros.
+
+
+RESULTADO
+
+static void CallMyMethod(int num1, int num2, Boolean valor)
+        {
+            int resultado;
+
+            if (valor == true)
+            {
+                resultado = num1 * num2;
+            }
+            else
+            {
+                try
+                {
+                    resultado = num1 / num2;
+                }
+                catch (DivideByZeroException e)
+                {
+                    Console.WriteLine("Error: {0}", e.Message);
+                }
+            }
+        }

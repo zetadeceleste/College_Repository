@@ -1,0 +1,24 @@
+METODOS Y PARAMETROS
+
+EJERCICIO 2:
+Reescriba el siguiente bloque de código usando for each.
+
+public static void Main( )
+{
+int[] numero = new int[10] {1,2,3,4,5,6,7,8,9,10};
+for (int i = 0; i < numero.Length; i++)
+{
+Console.WriteLine(numero[i].ToString());
+}
+}
+
+RESULTADO
+
+static void Main(string[] args)
+        {
+            int[] numero = new int[10] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            foreach(int num in numero)
+            {
+                Console.WriteLine(num);
+            }
+        }

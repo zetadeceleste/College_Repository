@@ -1,0 +1,7 @@
+C:\Users\Celes\source\repos\Dividir\Divisor\bin\Debug\Divisor.exe.config
+C:\Users\Celes\source\repos\Dividir\Divisor\bin\Debug\Divisor.exe
+C:\Users\Celes\source\repos\Dividir\Divisor\bin\Debug\Divisor.pdb
+C:\Users\Celes\source\repos\Dividir\Divisor\obj\Debug\Divisor.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\Dividir\Divisor\obj\Debug\Divisor.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\Dividir\Divisor\obj\Debug\Divisor.exe
+C:\Users\Celes\source\repos\Dividir\Divisor\obj\Debug\Divisor.pdb

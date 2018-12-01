@@ -1,0 +1,7 @@
+C:\Users\Celes\source\repos\DividePorCero\DividePorCero\bin\Debug\DividePorCero.exe.config
+C:\Users\Celes\source\repos\DividePorCero\DividePorCero\bin\Debug\DividePorCero.exe
+C:\Users\Celes\source\repos\DividePorCero\DividePorCero\bin\Debug\DividePorCero.pdb
+C:\Users\Celes\source\repos\DividePorCero\DividePorCero\obj\Debug\DividePorCero.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\DividePorCero\DividePorCero\obj\Debug\DividePorCero.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\DividePorCero\DividePorCero\obj\Debug\DividePorCero.exe
+C:\Users\Celes\source\repos\DividePorCero\DividePorCero\obj\Debug\DividePorCero.pdb

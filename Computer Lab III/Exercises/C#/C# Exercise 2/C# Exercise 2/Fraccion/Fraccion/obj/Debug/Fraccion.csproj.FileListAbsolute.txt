@@ -1,0 +1,7 @@
+C:\Users\Celes\source\repos\Fraccion\Fraccion\bin\Debug\Fraccion.exe.config
+C:\Users\Celes\source\repos\Fraccion\Fraccion\bin\Debug\Fraccion.exe
+C:\Users\Celes\source\repos\Fraccion\Fraccion\bin\Debug\Fraccion.pdb
+C:\Users\Celes\source\repos\Fraccion\Fraccion\obj\Debug\Fraccion.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\Fraccion\Fraccion\obj\Debug\Fraccion.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\Fraccion\Fraccion\obj\Debug\Fraccion.exe
+C:\Users\Celes\source\repos\Fraccion\Fraccion\obj\Debug\Fraccion.pdb

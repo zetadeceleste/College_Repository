@@ -1,0 +1,7 @@
+C:\Users\Celes\source\repos\Hilos\Hilos\bin\Debug\Hilos.exe.config
+C:\Users\Celes\source\repos\Hilos\Hilos\bin\Debug\Hilos.exe
+C:\Users\Celes\source\repos\Hilos\Hilos\bin\Debug\Hilos.pdb
+C:\Users\Celes\source\repos\Hilos\Hilos\obj\Debug\Hilos.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\Hilos\Hilos\obj\Debug\Hilos.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\Hilos\Hilos\obj\Debug\Hilos.exe
+C:\Users\Celes\source\repos\Hilos\Hilos\obj\Debug\Hilos.pdb

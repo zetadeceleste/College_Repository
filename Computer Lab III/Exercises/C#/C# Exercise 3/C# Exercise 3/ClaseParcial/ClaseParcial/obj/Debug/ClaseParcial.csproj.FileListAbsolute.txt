@@ -1,0 +1,7 @@
+C:\Users\Celes\source\repos\ClaseParcial\ClaseParcial\bin\Debug\ClaseParcial.exe.config
+C:\Users\Celes\source\repos\ClaseParcial\ClaseParcial\bin\Debug\ClaseParcial.exe
+C:\Users\Celes\source\repos\ClaseParcial\ClaseParcial\bin\Debug\ClaseParcial.pdb
+C:\Users\Celes\source\repos\ClaseParcial\ClaseParcial\obj\Debug\ClaseParcial.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\ClaseParcial\ClaseParcial\obj\Debug\ClaseParcial.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\ClaseParcial\ClaseParcial\obj\Debug\ClaseParcial.exe
+C:\Users\Celes\source\repos\ClaseParcial\ClaseParcial\obj\Debug\ClaseParcial.pdb

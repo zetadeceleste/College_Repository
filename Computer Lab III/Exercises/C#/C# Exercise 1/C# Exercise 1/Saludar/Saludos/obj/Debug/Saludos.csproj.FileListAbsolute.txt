@@ -1,0 +1,7 @@
+C:\Users\Celes\source\repos\Saludar\Saludos\bin\Debug\Saludos.exe.config
+C:\Users\Celes\source\repos\Saludar\Saludos\bin\Debug\Saludos.exe
+C:\Users\Celes\source\repos\Saludar\Saludos\bin\Debug\Saludos.pdb
+C:\Users\Celes\source\repos\Saludar\Saludos\obj\Debug\Saludos.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\Saludar\Saludos\obj\Debug\Saludos.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\Saludar\Saludos\obj\Debug\Saludos.exe
+C:\Users\Celes\source\repos\Saludar\Saludos\obj\Debug\Saludos.pdb

@@ -1,0 +1,7 @@
+C:\Users\Celes\source\repos\Objetos\Objetos\bin\Debug\Objetos.exe.config
+C:\Users\Celes\source\repos\Objetos\Objetos\bin\Debug\Objetos.exe
+C:\Users\Celes\source\repos\Objetos\Objetos\bin\Debug\Objetos.pdb
+C:\Users\Celes\source\repos\Objetos\Objetos\obj\Debug\Objetos.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\Objetos\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\Objetos\Objetos\obj\Debug\Objetos.exe
+C:\Users\Celes\source\repos\Objetos\Objetos\obj\Debug\Objetos.pdb

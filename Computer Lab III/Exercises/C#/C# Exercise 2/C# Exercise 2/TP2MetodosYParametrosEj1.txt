@@ -1,0 +1,25 @@
+METODOS Y PARAMETROS
+EJERCICIO 1:
+Al finalizar la ejecución de este fragmento de código, ¿que valor tienen las
+variables objetoCuenta, prefijoValor y sufijoValor?
+
+public static void Main()
+{
+int objetoCuenta = 50;
+incrementaValor(objetoCuenta);
+int sufijoValor = objetoCuenta++;
+int prefijoValor = ++objetoCuenta;
+decremetaValor (prefijoValor);
+}
+void incrementaValor(int valor){
+++valor;
+}
+void decremetaValor(int valor){
+--valor;
+}
+
+VALORES AL FINALIZAR
+
+objetoCuenta = 52
+prefijoValor = 52
+sufijoValor = 50

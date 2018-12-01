@@ -1,0 +1,7 @@
+C:\Users\Celes\source\repos\SumaEnteros\SumaEnteros\bin\Debug\SumaEnteros.exe.config
+C:\Users\Celes\source\repos\SumaEnteros\SumaEnteros\bin\Debug\SumaEnteros.exe
+C:\Users\Celes\source\repos\SumaEnteros\SumaEnteros\bin\Debug\SumaEnteros.pdb
+C:\Users\Celes\source\repos\SumaEnteros\SumaEnteros\obj\Debug\SumaEnteros.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\SumaEnteros\SumaEnteros\obj\Debug\SumaEnteros.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\SumaEnteros\SumaEnteros\obj\Debug\SumaEnteros.exe
+C:\Users\Celes\source\repos\SumaEnteros\SumaEnteros\obj\Debug\SumaEnteros.pdb

@@ -1,0 +1,44 @@
+METODOS Y PARAMETROS
+
+EJERCICIO 4:
+Dado el siguiente fragmento de código escriba un nuevo método aplicando
+sobrecarga de métodos de tal manera que reciba 2 parámetros y los
+concatene.
+
+class Overloading
+{
+static int Sumar(int a, int b)
+{
+return a + b;
+}
+// completar método sobrecargado aquí
+public static void Main( )
+{
+Console.WriteLine(Sumar(1,2));
+// llamada al método faltante
+
+Console.WriteLine(Sumar(“HOLA”, “MUNDO”));
+}
+}
+
+
+RESULTADO
+
+class Overloading
+{
+static int Sumar(int a, int b)
+{
+return a + b;
+}
+// completar método sobrecargado aquí
+static String Sumar(String a, String b)
+{
+return a + b;
+}
+public static void Main( )
+{
+Console.WriteLine(Sumar(1,2));
+// llamada al método faltante
+Console.WriteLine(Sumar(“HOLA”, “MUNDO”));
+}
+}

@@ -1,0 +1,6 @@
+C:\Users\Celes\source\repos\Saludar\Saludos\bin\Release\Saludos.exe.config
+C:\Users\Celes\source\repos\Saludar\Saludos\bin\Release\Saludos.exe
+C:\Users\Celes\source\repos\Saludar\Saludos\bin\Release\Saludos.pdb
+C:\Users\Celes\source\repos\Saludar\Saludos\obj\Release\Saludos.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\Saludar\Saludos\obj\Release\Saludos.exe
+C:\Users\Celes\source\repos\Saludar\Saludos\obj\Release\Saludos.pdb
