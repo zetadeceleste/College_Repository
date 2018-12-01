@@ -1,0 +1,20 @@
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TP LINQ ABM\TP LINQ ABM\bin\Debug\TP LINQ ABM.exe.config
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TP LINQ ABM\TP LINQ ABM\bin\Debug\TP LINQ ABM.exe
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TP LINQ ABM\TP LINQ ABM\bin\Debug\TP LINQ ABM.pdb
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP LINQ ABM.csprojAssemblyReference.cache
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP_LINQ_ABM.Form1.resources
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP_LINQ_ABM.Properties.Resources.resources
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP LINQ ABM.csproj.GenerateResource.cache
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP LINQ ABM.csproj.CoreCompileInputs.cache
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP LINQ ABM.exe
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP LINQ ABM.pdb
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP LINQ\TP LINQ ABM\TP LINQ ABM\bin\Debug\TP LINQ ABM.exe.config
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP LINQ\TP LINQ ABM\TP LINQ ABM\bin\Debug\TP LINQ ABM.exe
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP LINQ\TP LINQ ABM\TP LINQ ABM\bin\Debug\TP LINQ ABM.pdb
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP LINQ\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP LINQ ABM.csprojAssemblyReference.cache
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP LINQ\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP_LINQ_ABM.Form1.resources
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP LINQ\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP_LINQ_ABM.Properties.Resources.resources
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP LINQ\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP LINQ ABM.csproj.GenerateResource.cache
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP LINQ\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP LINQ ABM.csproj.CoreCompileInputs.cache
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP LINQ\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP LINQ ABM.exe
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP LINQ\TP LINQ ABM\TP LINQ ABM\obj\Debug\TP LINQ ABM.pdb
