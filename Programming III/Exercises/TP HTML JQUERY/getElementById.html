@@ -1,0 +1,32 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>2- getElementById</title>
+</head>
+
+<body>
+    <p id="miParrafo"> Esto es una prueba </p>
+    <button onclick="fPeque()">Fuente Pequeña</button>
+    <button onclick="fMed()">Fuente Mediana</button>
+    <button onclick="fGrand()">Fuente Grande</button>
+    <script>
+        let parrafo = document.getElementById("miParrafo");
+
+        function fPeque() {
+            parrafo.style.fontSize = "10px";
+        }
+
+        function fMed() {
+            parrafo.style.fontSize = "13px";
+        }
+
+        function fGrand() {
+            parrafo.style.fontSize = "20px";
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dado el siguiente HTML</title>
+    <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+</head>
+
+<body>
+    <table border="1">
+        <tr id="fila1">
+            <td>1111111111</td>
+            <td>1111111111</td>
+            <td>1111111111</td>
+            <td>1111111111</td>
+        </tr>
+        <tr id="fila2">
+            <td>2222222222</td>
+            <td>2222222222</td>
+            <td>2222222222</td>
+            <td>2222222222</td>
+        </tr>
+    </table>
+    
+    <script>
+        var doc = $(document);
+        doc.ready(inicializarElementos);
+
+        function inicializarElementos() {
+            var fila = $("tr");
+            fila.click(clickFila);
+        }
+
+        function clickFila() {
+            var fila = $(this);
+            fila.css("background-color", "red");
+        }
+    </script>
+</body>
+
+</html>

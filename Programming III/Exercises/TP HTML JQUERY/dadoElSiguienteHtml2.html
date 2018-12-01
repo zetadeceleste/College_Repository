@@ -1,0 +1,35 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dado el siguiente HTML 2</title>
+    <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+</head>
+
+<body>
+    <ul>
+        <li>Opción número 1</li>
+        <li>Opción número 2</li>
+        <li>Opción número 3</li>
+        <li>Opción número 4</li>
+    </ul>
+
+    <script>
+        var doc = $(document);
+        doc.ready(inicializarElementos);
+
+        function inicializarElementos() {
+            var li = $("li");
+            li.click(clickFila);
+        }
+
+        function clickFila() {
+            var li = $(this);
+            li.hide();
+        }
+    </script>
+</body>
+
+</html>

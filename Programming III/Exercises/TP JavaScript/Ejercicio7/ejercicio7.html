@@ -1,0 +1,32 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ejercicio 7</title>
+</head>
+
+<body>
+
+    <script>
+        sueldo = prompt("Ingrese el sueldo del empleado: ");
+        antiguedad = prompt("Ingrese la antigüedad: ");
+        sueldo = parseInt(sueldo);
+        if (sueldo < 500) {
+            if (antiguedad >= 10) {
+                var aumento = (sueldo * 20) / 100;
+                sueldo = sueldo + aumento;
+                alert("Otorgar un 20% de aumento al empleado (" + sueldo + ")");
+            } else {
+                var aumento = (sueldo * 5) / 100;
+                sueldo = sueldo + aumento;
+                alert("Otorgar un 5% de aumento al empleado (" + sueldo + ")");
+            }
+        } else {
+            alert("No hay cambios en el sueldo (" + sueldo + ")");
+        }
+    </script>
+</body>
+
+</html>

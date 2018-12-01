@@ -1,0 +1,43 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ejercicio 8</title>
+</head>
+
+<body>
+
+    <script>
+        var estudiantesM = 5;
+        var estudiantesT = 6;
+        var estudiantesN = 11;
+        var turnoM = "mañana";
+        var turnoT = "tarde";
+        var turnoN = "noche";
+        var sumaEdadesM = obtenerEdades(estudiantesM, turnoM);
+        var sumaEdadesT = obtenerEdades(estudiantesT, turnoT);
+        var sumaEdadesN = obtenerEdades(estudiantesN, turnoN);
+        mostrarPromedio(sumaEdadesM, estudiantesM, turnoM);
+        mostrarPromedio(sumaEdadesT, estudiantesT, turnoT);
+        mostrarPromedio(sumaEdadesN, estudiantesN, turnoN);
+
+        function obtenerEdades(estudiantes, turno) {
+            var edad;
+            var sumaEdades = 0;
+            for (i = 0; i < estudiantes; i++) {
+                edad = prompt("Ingrese las edades de los " + estudiantes + " estudiantes del turno " + turno);
+                sumaEdades += parseInt(edad);
+            }
+            return sumaEdades;
+        }
+        function mostrarPromedio(suma, cantidad, turno) {
+            var promedio;
+            promedio = suma / cantidad;
+            alert("El promedio de edades del turno " + turno + " es de: " + promedio);
+        }
+    </script>
+</body>
+
+</html>

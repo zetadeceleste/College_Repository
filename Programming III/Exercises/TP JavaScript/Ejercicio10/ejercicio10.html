@@ -1,0 +1,49 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ejercicio 10</title>
+</head>
+
+<body>
+    <p>¿Es mayor de 18 años?</p>
+    <form action="">
+        <table>
+            <tr>
+                <td>
+                    <input type="radio" name="validarEdad" value="si" id="si">
+                    <label for="si">Sí</label>
+                </td>
+                <td>
+                    <input type="radio" name="validarEdad" value="no" id="no">
+                    <label for="no">No</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button id="button">Ingresar</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <script>
+        addEventListener("load", inicio, false);
+        function inicio() {
+            document.getElementById("button").addEventListener("click", validar, false);
+        }
+        function validar() {
+            if (document.getElementById("si").checked) {
+                alert("¡Ingreso correcto!");
+            }
+            else if (document.getElementById("no").checked) {
+                alert("Ingreso incorrecto, eres menor de 18 años.")
+            } else {
+                alert("Marque una opción.");
+            }
+        }
+    </script>
+</body>
+
+</html>

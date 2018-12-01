@@ -1,0 +1,232 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ejercicio 15</title>
+    <style>
+        .botones {
+        text-align: center;
+    }
+    </style>
+</head>
+
+<body>
+    <h1>REGISTRO CLIENTE</h1>
+    <form action="">
+        <table>
+            <tr>
+                <td>
+                    <label for="">Nombre:</label>
+                </td>
+                <td>
+                    <input type="text" name="Nombre" id="nombre">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="">Primer Apellido:</label>
+                </td>
+                <td>
+                    <input type="text" name="Primer Apellido" id="apellido1">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="">Segundo Apellido:</label>
+                </td>
+                <td>
+                    <input type="text" name="Segundo Apellido" id="apellido2">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="">Teléfono de Contacto:</label>
+                </td>
+                <td>
+                    <input type="text" name="Teléfono de Contacto" id="telefono">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="">E-mail:</label>
+                </td>
+                <td>
+                    <input type="text" name="E-mail" id="mail">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="">Tipo de Tarjeta</label>
+                </td>
+                <td>
+                    <select name="Tipo de Tarjeta" id="tarjetas">
+                        <option value="Visa">1. Visa</option>
+                        <option value="Master Card">2. Master Card</option>
+                        <option value="American Express">3. American Express</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="">Número de Tarjeta:</label>
+                </td>
+                <td>
+                    <input type="text" name="Número de Tarjeta" id="numTarjeta">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="">Nombre de Usuario:</label>
+                </td>
+                <td>
+                    <input type="text" name="Nombre de Usuario" id="nombreUsu">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="">Contraseña:</label>
+                </td>
+                <td>
+                    <input type="text" name="Contraseña" id="pass">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="">Verificar Contraseña:</label>
+                </td>
+                <td>
+                    <input type="text" name="Verificar Contraseña" id="passConf">
+                </td>
+            </tr>
+            <tr class="botones">
+                <td>
+                    <button id="btnEnviar">Enviar</button>
+                </td>
+                <td>
+                    <button id="btnBorrar">Borrar</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <script>
+        var nombre = document.getElementById("nombre");
+        var apellido1 = document.getElementById("apellido1");
+        var apellido2 = document.getElementById("apellido2");
+        var telefono = document.getElementById("telefono");
+        var mail = document.getElementById("mail");
+        var tarjetaSeleccionada = document.getElementById("tarjetas");
+        var numTarjeta = document.getElementById("numTarjeta");
+        var nombreUsu = document.getElementById("nombreUsu");
+        var pass = document.getElementById("pass");
+        var passConf = document.getElementById("passConf");
+
+        addEventListener("load", inicio, false);
+
+        function inicio() {
+            document.getElementById("btnEnviar").addEventListener("click", enviar, false);
+            document.getElementById("btnBorrar").addEventListener("click", borrar, false);
+        }
+        function validarString(campo) {
+            if (campo.value == null || campo.value.length == 0 || /^\s+$/.test(campo.value)) {
+                alert("Falta completar el campo " + campo.name);
+                return false;
+            }
+            return true;
+        }
+        function validarNum(campo) {
+            if (campo.value == null || campo.value.length == 0) {
+                alert("Falta completar el campo " + campo.name);
+                return false;
+            } else if (isNaN(campo.value)) {
+                alert("El dato ingresado en " + campo.name + " no es válido.");
+                return false;
+            }
+            return true;
+        }
+        function validarMail(campo) {
+            if (campo.value == null || campo.value.length == 0) {
+                alert("Falta completar el campo " + campo.name);
+                return false;
+            } else if (!(/^(?:[^<>()[\].,;:\s@"]+(\.[^<>()[\].,;:\s@"]+)*|"[^\n"]+")@(?:[^<>()[\].,;:\s@"]+\.)+[^<>()[\]\.,;:\s@"]{2,63}$/i.test(campo.value))) {
+                alert("El e-mail ingresado no es válido.");
+                return false;
+            }
+            return true;
+        }
+        function validarPass(pass, passConf) {
+            var valido = validarString(passConf);
+            if (valido && pass.value != passConf.value) {
+                alert("La Confirmación de Contraseña no coincide con la Contraseña ingresada.");
+                return false;
+            }
+            return true;
+        }
+       
+        function validarTodosLosDatos() {
+            var validaNombre = validarString(nombre);
+            var validaApellido1 = validarString(apellido1);
+            var validaApellido2 = validarString(apellido2);
+            var validaTelefono = validarNum(telefono);
+            var validaMail = validarMail(mail);
+            var validaTarjeta = validarNum(numTarjeta);
+            var validaNombreUsu = validarString(nombreUsu);
+            var validaPass = validarString(pass);
+            var validaPassConf = validarPass(pass, passConf);
+
+            if (validaNombre) {
+                console.log("Nombre cargado correctamente");
+                if (validaApellido1)
+                    console.log("Apellido 1 cargado correctamente"); {
+                    if (validaApellido2)
+                        console.log("Apellido 2 cargado correctamente"); {
+                        if (validaTelefono) {
+                            console.log("Teléfono cargado correctamente");
+                            if (validaMail) {
+                                console.log("E-mail cargado correctamente");
+                                if (validaTarjeta) {
+                                    console.log("Tarjeta cargada correctamente");
+                                    if (validaNombreUsu) {
+                                        console.log("Nombre de usuario cargado correctamente");
+                                        if (validaPass) {
+                                            console.log("Contraseña cargada correctamente");
+                                            if (validaPassConf) {
+                                                console.log("Contraseña con Confirmación de Contraseña coinciden");
+                                                return true;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        function enviar() {
+            var validos = validarTodosLosDatos();
+            if (validos) {
+                alert("¡Carga de datos exitosa!");
+                alert("Datos: Nombre: " + nombre.value + " - Primer Apellido: " + apellido1.value + " - Segundo Apellido: " +
+                    apellido2.value + " - Teléfono de Contacto: " + telefono.value + " - E-mail: " + mail.value + " - Tipo de Tarjeta: " +
+                    tarjetaSeleccionada.value + " - Número de Tarjeta: " + numTarjeta.value + " - Nombre de Usuario: " + nombreUsu.value +
+                    " - Contraseña: " + pass.value + " - Verificar Contraseña: " + passConf.value);
+            }
+        }
+        function borrar() {
+            nombre.value = "";
+            apellido1.value = "";
+            apellido2.value = "";
+            telefono.value = "";
+            mail.value = "";
+            numTarjeta.value = "";
+            nombreUsu.value = "";
+            pass.value = "";
+            passConf.value = "";
+        }
+    </script>
+</body>
+
+</html>

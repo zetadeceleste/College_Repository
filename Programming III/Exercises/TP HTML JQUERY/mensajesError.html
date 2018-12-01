@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Problema</title>
+    <style>
+        #error{
+            display:none;
+            color:#f00;
+            background-color:#ff0;
+            font-size:15px;
+            width:400px;
+            border:1px solid #00f;
+            padding:5px;
+        }
+    </style>
+</head>
+
+<body>
+    <form action="#" method="post">
+        Nombre de usuario:
+        <input type="text" id="usuario" name="usuario">
+        <br>
+        Clave:
+        <input type="password" id="clave" name="clave">
+        <br>
+        <input type="submit" value="Confirmar" id="confirmar">
+    </form>
+    <div id="error">
+    </div>
+
+    <script>
+        window.addEventListener('load', inicializarEventos, false);
+        function inicializarEventos() {
+            var ob = document.getElementById('confirmar');
+            ob.addEventListener('click', validar, false);
+        }
+        function validar(e) {
+            var usu = document.getElementById('usuario');
+            var error = '';
+            if (usu.value == '') {
+                error = 'Debe ingresar el nombre de usuario';
+            }
+            var cla = document.getElementById('clave');
+            if (cla.value == '') {
+                error = error + 'Debe ingresar la clave.';
+            }
+            if (error != '') {
+                e.preventDefault();
+                var er = document.getElementById('error');
+                er.innerHTML = error;
+                er.style.display = 'block';
+            }
+        }
+    </script>
+</body>
+
+</html>

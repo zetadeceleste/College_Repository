@@ -1,0 +1,54 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ejercicio 13</title>
+</head>
+
+<body>
+    <script>
+        var vector1 = [];
+        var vector2 = [];
+        var vector3 = [];
+        var valor;
+        var cont1 = 0;
+        var cont2 = 0;
+
+        alert("El vector 1 contiene los siguientes valores: ");
+        for (i = 0; i < 10; i++) {
+            valor = obtenerEnteroRandom(1, 500);
+            vector1[i] = valor;
+            alert("Valor " + (i + 1) + ": " + vector1[i]);
+        }
+
+        for (i = 0; i < vector1.length; i++) {
+            valor = vector1[i];
+            if (valor < 250) {
+                vector2[cont1] = valor;
+                cont1++;
+            } else if (vector1[i] >= 250) {
+                vector3[cont2] = valor;
+                cont2++;
+            }
+        }
+
+        alert("El vector 2 contiene " + vector2.length + " valores y son: ");
+        for (i = 0; i < vector2.length; i++) {
+            alert("Valor " + (i + 1) + ": " + vector2[i]);
+        }
+
+        alert("El vector 3 contiene " + vector3.length + " valores y son: ");
+        for (i = 0; i < vector3.length; i++) {
+            alert("Valor " + (i + 1) + ": " + vector3[i]);
+        }
+
+        function obtenerEnteroRandom(min, max) {
+            return Math.floor(Math.random() * (max - min)) + min;
+        }
+
+    </script>
+</body>
+
+</html>

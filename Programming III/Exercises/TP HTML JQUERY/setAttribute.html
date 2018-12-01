@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>setAttribute</title>
+</head>
+
+<body>
+    <table id="tabla1">
+        <tr>
+            <td>11</td>
+            <td>12</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>22</td>
+        </tr>
+    </table>
+    <input type="button" value="definir la propiedad border de la tabla" onClick="definirAtributo()">
+
+    <script>
+        function definirAtributo() {
+            let tabla = document.getElementById("tabla1");
+            tabla.setAttribute("border", "5");
+        }
+    </script>
+</body>
+
+</html>
