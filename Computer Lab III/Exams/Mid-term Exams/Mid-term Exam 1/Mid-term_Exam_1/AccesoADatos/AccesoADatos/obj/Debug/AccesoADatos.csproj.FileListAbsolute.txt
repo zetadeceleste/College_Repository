@@ -1,0 +1,10 @@
+C:\Users\Celes\source\repos\AccesoADatos\AccesoADatos\bin\Debug\AccesoADatos.exe.config
+C:\Users\Celes\source\repos\AccesoADatos\AccesoADatos\bin\Debug\AccesoADatos.exe
+C:\Users\Celes\source\repos\AccesoADatos\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\Celes\source\repos\AccesoADatos\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\AccesoADatos\AccesoADatos\obj\Debug\AccesoADatos.Form1.resources
+C:\Users\Celes\source\repos\AccesoADatos\AccesoADatos\obj\Debug\AccesoADatos.Properties.Resources.resources
+C:\Users\Celes\source\repos\AccesoADatos\AccesoADatos\obj\Debug\AccesoADatos.csproj.GenerateResource.cache
+C:\Users\Celes\source\repos\AccesoADatos\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\AccesoADatos\AccesoADatos\obj\Debug\AccesoADatos.exe
+C:\Users\Celes\source\repos\AccesoADatos\AccesoADatos\obj\Debug\AccesoADatos.pdb

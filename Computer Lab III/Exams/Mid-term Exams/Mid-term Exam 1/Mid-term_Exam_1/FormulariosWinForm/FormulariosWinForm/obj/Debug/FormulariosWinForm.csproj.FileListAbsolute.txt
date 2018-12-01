@@ -1,0 +1,10 @@
+C:\Users\Celes\source\repos\FormulariosWinForm\FormulariosWinForm\obj\Debug\FormulariosWinForm.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\FormulariosWinForm\FormulariosWinForm\obj\Debug\FormulariosWinForm.Form1.resources
+C:\Users\Celes\source\repos\FormulariosWinForm\FormulariosWinForm\obj\Debug\FormulariosWinForm.Properties.Resources.resources
+C:\Users\Celes\source\repos\FormulariosWinForm\FormulariosWinForm\obj\Debug\FormulariosWinForm.csproj.GenerateResource.cache
+C:\Users\Celes\source\repos\FormulariosWinForm\FormulariosWinForm\obj\Debug\FormulariosWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\FormulariosWinForm\FormulariosWinForm\bin\Debug\FormulariosWinForm.exe.config
+C:\Users\Celes\source\repos\FormulariosWinForm\FormulariosWinForm\bin\Debug\FormulariosWinForm.exe
+C:\Users\Celes\source\repos\FormulariosWinForm\FormulariosWinForm\bin\Debug\FormulariosWinForm.pdb
+C:\Users\Celes\source\repos\FormulariosWinForm\FormulariosWinForm\obj\Debug\FormulariosWinForm.exe
+C:\Users\Celes\source\repos\FormulariosWinForm\FormulariosWinForm\obj\Debug\FormulariosWinForm.pdb

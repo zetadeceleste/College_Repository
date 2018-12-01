@@ -1,0 +1,7 @@
+C:\Users\Celes\source\repos\EjercicioB\EjercicioB\bin\Debug\EjercicioB.exe.config
+C:\Users\Celes\source\repos\EjercicioB\EjercicioB\bin\Debug\EjercicioB.exe
+C:\Users\Celes\source\repos\EjercicioB\EjercicioB\bin\Debug\EjercicioB.pdb
+C:\Users\Celes\source\repos\EjercicioB\EjercicioB\obj\Debug\EjercicioB.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\EjercicioB\EjercicioB\obj\Debug\EjercicioB.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\EjercicioB\EjercicioB\obj\Debug\EjercicioB.exe
+C:\Users\Celes\source\repos\EjercicioB\EjercicioB\obj\Debug\EjercicioB.pdb

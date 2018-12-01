@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="pubs" Class="PubsStoresDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=CELES-PC\SQLEXPRESS;Initial Catalog=pubs;User ID=sa" SettingsObjectName="AccesoADatosLINQ.Properties.Settings" SettingsPropertyName="pubsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.stores" Member="stores">
+    <Type Name="stores">
+      <Column Name="stor_id" Type="System.String" DbType="Char(4) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="stor_name" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="stor_address" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="city" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="state" Type="System.String" DbType="Char(2)" CanBeNull="true" />
+      <Column Name="zip" Type="System.String" DbType="Char(5)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

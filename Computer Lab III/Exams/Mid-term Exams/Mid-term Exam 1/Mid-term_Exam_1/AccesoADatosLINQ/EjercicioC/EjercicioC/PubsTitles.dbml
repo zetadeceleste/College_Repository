@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="pubs" Class="PubsTitlesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=CELES-PC\SQLEXPRESS;Initial Catalog=pubs;User ID=sa" SettingsObjectName="EjercicioC.Properties.Settings" SettingsPropertyName="pubsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.titles" Member="titles">
+    <Type Name="titles">
+      <Column Name="title_id" Type="System.String" DbType="VarChar(6) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="title" Type="System.String" DbType="VarChar(80) NOT NULL" CanBeNull="false" />
+      <Column Name="type" Type="System.String" DbType="Char(12) NOT NULL" CanBeNull="false" />
+      <Column Name="pub_id" Type="System.String" DbType="Char(4)" CanBeNull="true" />
+      <Column Name="price" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="advance" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="royalty" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ytd_sales" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="notes" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="pubdate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

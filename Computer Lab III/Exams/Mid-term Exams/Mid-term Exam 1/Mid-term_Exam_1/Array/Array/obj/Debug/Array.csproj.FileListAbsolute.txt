@@ -1,0 +1,14 @@
+C:\Users\Celes\source\repos\Array\Array\bin\Debug\Array.exe.config
+C:\Users\Celes\source\repos\Array\Array\bin\Debug\Array.exe
+C:\Users\Celes\source\repos\Array\Array\bin\Debug\Array.pdb
+C:\Users\Celes\source\repos\Array\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\Array\Array\obj\Debug\Array.exe
+C:\Users\Celes\source\repos\Array\Array\obj\Debug\Array.pdb
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Array\Array\bin\Debug\Array.exe.config
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Array\Array\bin\Debug\Array.exe
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Array\Array\bin\Debug\Array.pdb
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Array\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Array\Array\obj\Debug\Array.exe
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Array\Array\obj\Debug\Array.pdb

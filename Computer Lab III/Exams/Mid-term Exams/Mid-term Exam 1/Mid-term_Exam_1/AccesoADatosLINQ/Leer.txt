@@ -1,0 +1,5 @@
+Cambiar el path de los eventos en botones EjercicioB y EjercicioC,
+para que el programa principal los encuentre y pueda ejecutar.
+
+Cambiar el app.config en todos los proyectos, para que pueda lograr
+la conexión con SQL Server.

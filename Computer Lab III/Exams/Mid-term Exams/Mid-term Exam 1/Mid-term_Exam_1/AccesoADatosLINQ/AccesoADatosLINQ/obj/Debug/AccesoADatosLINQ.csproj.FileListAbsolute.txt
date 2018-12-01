@@ -1,0 +1,20 @@
+C:\Users\Celes\source\repos\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.Form1.resources
+C:\Users\Celes\source\repos\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.Properties.Resources.resources
+C:\Users\Celes\source\repos\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.csproj.GenerateResource.cache
+C:\Users\Celes\source\repos\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\AccesoADatosLINQ\AccesoADatosLINQ\bin\Debug\AccesoADatosLINQ.exe.config
+C:\Users\Celes\source\repos\AccesoADatosLINQ\AccesoADatosLINQ\bin\Debug\AccesoADatosLINQ.exe
+C:\Users\Celes\source\repos\AccesoADatosLINQ\AccesoADatosLINQ\bin\Debug\AccesoADatosLINQ.pdb
+C:\Users\Celes\source\repos\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.exe
+C:\Users\Celes\source\repos\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.pdb
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\AccesoADatosLINQ\AccesoADatosLINQ\bin\Debug\AccesoADatosLINQ.exe.config
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\AccesoADatosLINQ\AccesoADatosLINQ\bin\Debug\AccesoADatosLINQ.exe
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\AccesoADatosLINQ\AccesoADatosLINQ\bin\Debug\AccesoADatosLINQ.pdb
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.csprojAssemblyReference.cache
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.Form1.resources
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.Properties.Resources.resources
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.csproj.GenerateResource.cache
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.exe
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\AccesoADatosLINQ\AccesoADatosLINQ\obj\Debug\AccesoADatosLINQ.pdb

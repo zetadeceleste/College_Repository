@@ -1,0 +1,14 @@
+C:\Users\Celes\source\repos\Read_WriteFiles\Read_WriteFiles\bin\Debug\Read_WriteFiles.exe.config
+C:\Users\Celes\source\repos\Read_WriteFiles\Read_WriteFiles\bin\Debug\Read_WriteFiles.exe
+C:\Users\Celes\source\repos\Read_WriteFiles\Read_WriteFiles\bin\Debug\Read_WriteFiles.pdb
+C:\Users\Celes\source\repos\Read_WriteFiles\Read_WriteFiles\obj\Debug\Read_WriteFiles.csprojAssemblyReference.cache
+C:\Users\Celes\source\repos\Read_WriteFiles\Read_WriteFiles\obj\Debug\Read_WriteFiles.csproj.CoreCompileInputs.cache
+C:\Users\Celes\source\repos\Read_WriteFiles\Read_WriteFiles\obj\Debug\Read_WriteFiles.exe
+C:\Users\Celes\source\repos\Read_WriteFiles\Read_WriteFiles\obj\Debug\Read_WriteFiles.pdb
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Read_WriteFiles\Read_WriteFiles\bin\Debug\Read_WriteFiles.exe.config
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Read_WriteFiles\Read_WriteFiles\bin\Debug\Read_WriteFiles.exe
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Read_WriteFiles\Read_WriteFiles\bin\Debug\Read_WriteFiles.pdb
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Read_WriteFiles\Read_WriteFiles\obj\Debug\Read_WriteFiles.csprojAssemblyReference.cache
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Read_WriteFiles\Read_WriteFiles\obj\Debug\Read_WriteFiles.csproj.CoreCompileInputs.cache
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Read_WriteFiles\Read_WriteFiles\obj\Debug\Read_WriteFiles.exe
+C:\Users\Celes\Desktop\Parcial 1 Zapata_Celeste\Read_WriteFiles\Read_WriteFiles\obj\Debug\Read_WriteFiles.pdb
