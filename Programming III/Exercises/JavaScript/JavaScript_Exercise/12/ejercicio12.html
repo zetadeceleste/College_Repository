@@ -1,0 +1,42 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ejercicio 12</title>
+</head>
+
+<body>
+
+    <script>
+        //Según teoría vista en JavaScript.pdf
+
+        function suma() {
+            var valor1;
+            var valor2;
+
+            this.primervalor = function(valor1) {
+                this.valor1 = valor1;
+            }
+
+            this.segundovalor = function(valor2) {
+                this.valor2 = valor2;
+            }
+
+            this.retornarresultado = function() {
+                var resultado;
+                resultado = this.valor1 + this.valor2;
+
+                return resultado;
+            }
+        }
+
+        var s = new suma();
+        s.primervalor(10);
+        s.segundovalor(20);
+        document.write("La suma de los dos valores es: " + s.retornarresultado());
+    </script>
+</body>
+
+</html>
