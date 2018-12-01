@@ -1,0 +1,69 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>TP Master Page</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        body {
+            text-align: center;
+        }
+
+        table {
+            display:inline-block;
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+
+        td {
+            border: 1px solid black;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        li {                                                                            
+            position: relative;
+            right: 20%;
+            list-style: none;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <table>
+        <tr>
+            <td id="menu">
+                <h3>Sección Menu</h3>
+                <ul>
+                    <li>
+                        <a href="Contenido1.aspx">Contenido 1</a>
+                    </li>
+                    <li>
+                        <a href="Contenido2.aspx">Contenido 2</a>
+                    </li>
+                    <li>
+                        <a href="Contenido3.aspx">Contenido 3</a>
+                    </li>
+                </ul>
+            </td>
+            <td>
+                <asp:ContentPlaceHolder ID="Contenedor" runat="server">
+                </asp:ContentPlaceHolder>
+                <asp:ContentPlaceHolder ID="Contenedor2" runat="server">
+                </asp:ContentPlaceHolder>
+                <asp:ContentPlaceHolder ID="Contenedor3" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+    </table>
+
+
+</body>
+</html>
