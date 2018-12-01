@@ -1,0 +1,6 @@
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPFILES\TPFILES\obj\Debug\TPFILES.csprojResolveAssemblyReference.cache
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPFILES\TPFILES\bin\Debug\TPFILES.exe.config
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPFILES\TPFILES\bin\Debug\TPFILES.exe
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPFILES\TPFILES\bin\Debug\TPFILES.pdb
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPFILES\TPFILES\obj\Debug\TPFILES.exe
+C:\Users\electro\Documents\Visual Studio 2017\Projects\TPFILES\TPFILES\obj\Debug\TPFILES.pdb

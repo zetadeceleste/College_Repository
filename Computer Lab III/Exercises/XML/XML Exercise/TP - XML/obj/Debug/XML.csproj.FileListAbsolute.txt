@@ -1,0 +1,13 @@
+C:\Users\Celes\Desktop\main\UTN\Carpetas de Compañeros\TSP Enzo Panettieri\Computer Lab III\XML\TP - XML\bin\Debug\TP - XML.exe.config
+C:\Users\Celes\Desktop\main\UTN\Carpetas de Compañeros\TSP Enzo Panettieri\Computer Lab III\XML\TP - XML\bin\Debug\TP - XML.exe
+C:\Users\Celes\Desktop\main\UTN\Carpetas de Compañeros\TSP Enzo Panettieri\Computer Lab III\XML\TP - XML\bin\Debug\TP - XML.pdb
+C:\Users\Celes\Desktop\main\UTN\Carpetas de Compañeros\TSP Enzo Panettieri\Computer Lab III\XML\TP - XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\Celes\Desktop\main\UTN\Carpetas de Compañeros\TSP Enzo Panettieri\Computer Lab III\XML\TP - XML\obj\Debug\TP - XML.exe
+C:\Users\Celes\Desktop\main\UTN\Carpetas de Compañeros\TSP Enzo Panettieri\Computer Lab III\XML\TP - XML\obj\Debug\TP - XML.pdb
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP XML\XML\TP - XML\bin\Debug\TP - XML.exe.config
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP XML\XML\TP - XML\bin\Debug\TP - XML.exe
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP XML\XML\TP - XML\bin\Debug\TP - XML.pdb
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP XML\XML\TP - XML\obj\Debug\XML.csprojAssemblyReference.cache
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP XML\XML\TP - XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP XML\XML\TP - XML\obj\Debug\TP - XML.exe
+C:\Users\Celes\Desktop\main\UTN\2do Año\1er Cuatrimestre\Laboratorio III\Trabajos Prácticos\TP XML\XML\TP - XML\obj\Debug\TP - XML.pdb
